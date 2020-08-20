@@ -28,7 +28,7 @@ This project is built on google colab. Follow these steps to get the data availb
     </code>
   </pre>
       
- To get the yolov5 model clone the ultalytics repository using following command.
+ To get the yolov5 model clone the ultralytics repository using following command.
  <pre>
   <code>
     !git clone  https://github.com/ultralytics/yolov5
@@ -59,3 +59,6 @@ Lastly, run the following to start model training
   </code>
 </pre>
 
+
+# Result:
+![alt text](https://github.com/Dilpreet047/Kaggle-problems/blob/master/download%20(1).png)
